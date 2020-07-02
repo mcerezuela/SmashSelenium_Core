@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30225.117
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SmashSelenium-Core", "SmashSelenium-Core\SmashSelenium-Core.csproj", "{DCF8D173-BA48-438E-9B26-2D55CDE40B28}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DCF8D173-BA48-438E-9B26-2D55CDE40B28}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DCF8D173-BA48-438E-9B26-2D55CDE40B28}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DCF8D173-BA48-438E-9B26-2D55CDE40B28}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DCF8D173-BA48-438E-9B26-2D55CDE40B28}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B08668ED-663A-482A-B8D1-697C40468F4B}
+	EndGlobalSection
+EndGlobal
